@@ -23,7 +23,7 @@ h1,h2,h3,h4,h5,h6{
   }
   
   .jk{
-    width: 250px !important;
+    width: 700px !important;
   }
   
   .navbar-expand-lg .navbar-nav a{
@@ -366,7 +366,7 @@ h1,h2,h3,h4,h5,h6{
 
 
 /* porttooo */
-
+#portfolio{background-color: #e9e4e485;}
 .nav-tabs{
     border: none;
     display: flex;
